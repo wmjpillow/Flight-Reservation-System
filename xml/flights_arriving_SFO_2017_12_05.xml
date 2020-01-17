@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Flights>
+	<Flight Airplane="757" FlightTime="296" Number="1421">
+		<Departure>
+			<Code>ANC</Code>
+			<Time>2017 Dec 10 17:57 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 22:53 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$701.42">7</FirstClass>
+			<Coach Price="$132.03">1</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="142" Number="14407">
+		<Departure>
+			<Code>DEN</Code>
+			<Time>2017 Dec 10 03:14 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 05:36 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$86.48">86</FirstClass>
+			<Coach Price="$26.81">108</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="187" Number="14409">
+		<Departure>
+			<Code>DEN</Code>
+			<Time>2017 Dec 10 03:32 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 06:39 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$110.89">35</FirstClass>
+			<Coach Price="$33.24">162</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A340" FlightTime="357" Number="20255">
+		<Departure>
+			<Code>HNL</Code>
+			<Time>2017 Dec 09 20:18 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 02:15 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$844.40">15</FirstClass>
+			<Coach Price="$100.82">255</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="64" Number="26126">
+		<Departure>
+			<Code>LAS</Code>
+			<Time>2017 Dec 10 12:24 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 13:28 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$116.08">6</FirstClass>
+			<Coach Price="$13.00">258</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="52" Number="26134">
+		<Departure>
+			<Code>LAS</Code>
+			<Time>2017 Dec 10 17:35 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 18:27 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$162.93">3</FirstClass>
+			<Coach Price="$19.55">94</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="52" Number="26138">
+		<Departure>
+			<Code>LAS</Code>
+			<Time>2017 Dec 10 19:44 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 20:36 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$121.95">5</FirstClass>
+			<Coach Price="$22.95">142</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="54" Number="26139">
+		<Departure>
+			<Code>LAS</Code>
+			<Time>2017 Dec 10 20:36 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 21:30 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$32.91">90</FirstClass>
+			<Coach Price="$10.20">274</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="50" Number="27298">
+		<Departure>
+			<Code>LAX</Code>
+			<Time>2017 Dec 10 08:42 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 09:32 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$30.29">42</FirstClass>
+			<Coach Price="$9.39">216</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="58" Number="27315">
+		<Departure>
+			<Code>LAX</Code>
+			<Time>2017 Dec 10 16:34 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 17:32 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$34.49">94</FirstClass>
+			<Coach Price="$10.34">187</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="54" Number="39098">
+		<Departure>
+			<Code>ONT</Code>
+			<Time>2017 Dec 10 04:09 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 05:03 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$170.20">23</FirstClass>
+			<Coach Price="$20.42">192</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="99" Number="42666">
+		<Departure>
+			<Code>PHX</Code>
+			<Time>2017 Dec 10 13:23 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 15:02 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$313.20">14</FirstClass>
+			<Coach Price="$37.58">112</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="71" Number="44960">
+		<Departure>
+			<Code>PDX</Code>
+			<Time>2017 Dec 10 00:47 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 01:58 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$192.33">0</FirstClass>
+			<Coach Price="$53.85">76</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A320" FlightTime="11" Number="47335">
+		<Departure>
+			<Code>SMF</Code>
+			<Time>2017 Dec 10 03:02 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 03:13 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$67.02">6</FirstClass>
+			<Coach Price="$6.49">18</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="11" Number="47338">
+		<Departure>
+			<Code>SMF</Code>
+			<Time>2017 Dec 10 03:53 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 04:04 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$10.39">73</FirstClass>
+			<Coach Price="$2.05">263</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A320" FlightTime="11" Number="47345">
+		<Departure>
+			<Code>SMF</Code>
+			<Time>2017 Dec 10 06:36 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 06:47 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$70.50">9</FirstClass>
+			<Coach Price="$6.82">121</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="15" Number="47354">
+		<Departure>
+			<Code>SMF</Code>
+			<Time>2017 Dec 10 12:30 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 12:45 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$40.82">15</FirstClass>
+			<Coach Price="$11.43">77</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="69" Number="50913">
+		<Departure>
+			<Code>SAN</Code>
+			<Time>2017 Dec 10 12:31 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 13:40 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$65.77">1</FirstClass>
+			<Coach Price="$12.99">395</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="6" Number="53274">
+		<Departure>
+			<Code>SJC</Code>
+			<Time>2017 Dec 10 06:58 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 07:04 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$10.61">31</FirstClass>
+			<Coach Price="$1.19">310</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A340" FlightTime="55" Number="54483">
+		<Departure>
+			<Code>SNA</Code>
+			<Time>2017 Dec 10 08:01 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 08:56 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$130.45">31</FirstClass>
+			<Coach Price="$15.58">190</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="55" Number="54493">
+		<Departure>
+			<Code>SNA</Code>
+			<Time>2017 Dec 10 12:53 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 13:48 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$147.99">14</FirstClass>
+			<Coach Price="$41.44">38</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="60" Number="54502">
+		<Departure>
+			<Code>SNA</Code>
+			<Time>2017 Dec 10 18:48 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 19:48 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$142.79">31</FirstClass>
+			<Coach Price="$26.88">97</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="92" Number="55641">
+		<Departure>
+			<Code>SEA</Code>
+			<Time>2017 Dec 10 01:54 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 03:26 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$218.18">4</FirstClass>
+			<Coach Price="$41.07">19</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="89" Number="55665">
+		<Departure>
+			<Code>SEA</Code>
+			<Time>2017 Dec 10 14:01 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>SFO</Code>
+			<Time>2017 Dec 10 15:30 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$281.97">1</FirstClass>
+			<Coach Price="$33.84">19</Coach>
+		</Seating>
+	</Flight>
+</Flights>

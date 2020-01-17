@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Flights>
+	<Flight Airplane="777" FlightTime="29" Number="4972">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 00:12 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 00:41 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$27.44">79</FirstClass>
+			<Coach Price="$5.42">387</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="89" Number="4973">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 00:43 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CLE</Code>
+			<Time>2017 Dec 10 02:12 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$160.17">22</FirstClass>
+			<Coach Price="$17.94">112</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="53" Number="4974">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 01:05 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>DCA</Code>
+			<Time>2017 Dec 10 01:58 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$144.56">28</FirstClass>
+			<Coach Price="$40.48">47</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A320" FlightTime="185" Number="4975">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 01:29 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MCO</Code>
+			<Time>2017 Dec 10 04:34 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$1,170.63">5</FirstClass>
+			<Coach Price="$113.29">29</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="76" Number="4976">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 01:41 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>PIT</Code>
+			<Time>2017 Dec 10 02:57 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$136.64">6</FirstClass>
+			<Coach Price="$15.30">273</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="31" Number="4977">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 02:45 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>LGA</Code>
+			<Time>2017 Dec 10 03:16 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$96.79">0</FirstClass>
+			<Coach Price="$28.33">36</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="153" Number="4978">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 03:09 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>ORD</Code>
+			<Time>2017 Dec 10 05:42 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$413.69">10</FirstClass>
+			<Coach Price="$115.83">5</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="33" Number="4979">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 03:40 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>EWR</Code>
+			<Time>2017 Dec 10 04:13 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$20.08">43</FirstClass>
+			<Coach Price="$6.23">195</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="115" Number="4980">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 04:07 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MDW</Code>
+			<Time>2017 Dec 10 06:02 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$311.56">26</FirstClass>
+			<Coach Price="$87.24">24</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="30" Number="4981">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 04:35 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 05:05 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$28.84">62</FirstClass>
+			<Coach Price="$5.70">60</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="141" Number="4982">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 05:02 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BNA</Code>
+			<Time>2017 Dec 10 07:23 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$102.80">93</FirstClass>
+			<Coach Price="$53.46">133</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="23" Number="4983">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 05:08 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>LGA</Code>
+			<Time>2017 Dec 10 05:31 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$54.10">19</FirstClass>
+			<Coach Price="$10.18">113</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="127" Number="4984">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 05:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CLT</Code>
+			<Time>2017 Dec 10 07:44 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$77.68">76</FirstClass>
+			<Coach Price="$24.08">262</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="59" Number="4985">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 06:19 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>PIT</Code>
+			<Time>2017 Dec 10 07:18 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$140.60">17</FirstClass>
+			<Coach Price="$26.47">6</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="151" Number="4986">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 07:06 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MCO</Code>
+			<Time>2017 Dec 10 09:37 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$271.61">37</FirstClass>
+			<Coach Price="$30.42">352</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="77" Number="4987">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 07:15 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CMH</Code>
+			<Time>2017 Dec 10 08:32 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$45.76">51</FirstClass>
+			<Coach Price="$13.72">161</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="49" Number="4988">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 07:43 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BWI</Code>
+			<Time>2017 Dec 10 08:32 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$28.92">77</FirstClass>
+			<Coach Price="$8.67">53</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="64" Number="4989">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 07:53 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>IAD</Code>
+			<Time>2017 Dec 10 08:57 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$151.59">8</FirstClass>
+			<Coach Price="$28.53">69</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="34" Number="4990">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 08:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>PHL</Code>
+			<Time>2017 Dec 10 09:11 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$24.97">43</FirstClass>
+			<Coach Price="$12.99">172</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="145" Number="4991">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 08:45 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>ATL</Code>
+			<Time>2017 Dec 10 11:10 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$139.40">45</FirstClass>
+			<Coach Price="$27.53">336</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="22" Number="4992">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 09:15 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 09:37 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$60.75">6</FirstClass>
+			<Coach Price="$17.01">77</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="80" Number="4993">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 09:52 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>DTW</Code>
+			<Time>2017 Dec 10 11:12 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$190.27">5</FirstClass>
+			<Coach Price="$35.82">111</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="138" Number="4994">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 10:08 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>IND</Code>
+			<Time>2017 Dec 10 12:26 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$132.61">9</FirstClass>
+			<Coach Price="$26.19">152</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A340" FlightTime="110" Number="4995">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 10:40 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MDW</Code>
+			<Time>2017 Dec 10 12:30 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$260.38">6</FirstClass>
+			<Coach Price="$31.09">115</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="89" Number="4996">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 11:02 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>PIT</Code>
+			<Time>2017 Dec 10 12:31 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$282.34">13</FirstClass>
+			<Coach Price="$82.64">46</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="212" Number="4997">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 11:31 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MCO</Code>
+			<Time>2017 Dec 10 15:03 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$202.98">78</FirstClass>
+			<Coach Price="$40.09">18</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="13" Number="4998">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 11:46 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BDL</Code>
+			<Time>2017 Dec 10 11:59 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$12.32">40</FirstClass>
+			<Coach Price="$2.43">70</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="125" Number="4999">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 12:48 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BNA</Code>
+			<Time>2017 Dec 10 14:53 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$393.36">22</FirstClass>
+			<Coach Price="$47.20">11</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="72" Number="5000">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 13:50 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CLE</Code>
+			<Time>2017 Dec 10 15:02 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$170.25">30</FirstClass>
+			<Coach Price="$32.05">38</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="189" Number="5001">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 15:04 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>TPA</Code>
+			<Time>2017 Dec 10 18:13 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$137.36">35</FirstClass>
+			<Coach Price="$71.43">90</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="757" FlightTime="135" Number="5002">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 15:33 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MDW</Code>
+			<Time>2017 Dec 10 17:48 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$320.68">15</FirstClass>
+			<Coach Price="$60.36">16</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="116" Number="5003">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 16:05 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>DTW</Code>
+			<Time>2017 Dec 10 18:01 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$70.73">74</FirstClass>
+			<Coach Price="$21.92">165</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="25" Number="5004">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 16:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>LGA</Code>
+			<Time>2017 Dec 10 17:02 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$78.65">9</FirstClass>
+			<Coach Price="$9.44">193</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="737" FlightTime="189" Number="5005">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 17:12 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>STL</Code>
+			<Time>2017 Dec 10 20:21 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$510.41">2</FirstClass>
+			<Coach Price="$142.91">92</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="117" Number="5006">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 17:52 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CVG</Code>
+			<Time>2017 Dec 10 19:49 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$367.94">4</FirstClass>
+			<Coach Price="$107.69">51</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="117" Number="5007">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 18:45 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>IND</Code>
+			<Time>2017 Dec 10 20:42 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$112.31">12</FirstClass>
+			<Coach Price="$22.18">12</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="53" Number="5008">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 19:58 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BWI</Code>
+			<Time>2017 Dec 10 20:51 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$38.76">57</FirstClass>
+			<Coach Price="$20.16">16</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="767" FlightTime="178" Number="5009">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 21:08 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>BNA</Code>
+			<Time>2017 Dec 11 00:06 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$129.31">41</FirstClass>
+			<Coach Price="$67.24">67</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A330" FlightTime="138" Number="5010">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 21:20 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MCO</Code>
+			<Time>2017 Dec 10 23:38 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$248.79">1</FirstClass>
+			<Coach Price="$27.86">168</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="717" FlightTime="29" Number="5011">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 21:32 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 22:01 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$91.25">4</FirstClass>
+			<Coach Price="$26.71">13</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="169" Number="5012">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 21:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MCO</Code>
+			<Time>2017 Dec 11 00:26 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$103.32">81</FirstClass>
+			<Coach Price="$32.03">298</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A310" FlightTime="32" Number="5013">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 22:33 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 23:05 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$101.21">24</FirstClass>
+			<Coach Price="$12.15">90</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="139" Number="5014">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 23:12 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>MEM</Code>
+			<Time>2017 Dec 11 01:31 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$82.13">37</FirstClass>
+			<Coach Price="$24.62">56</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="A380" FlightTime="23" Number="5015">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 23:23 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 10 23:46 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$13.31">2</FirstClass>
+			<Coach Price="$3.99">39</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="777" FlightTime="36" Number="5016">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 23:37 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>JFK</Code>
+			<Time>2017 Dec 11 00:13 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$34.85">45</FirstClass>
+			<Coach Price="$6.88">294</Coach>
+		</Seating>
+	</Flight>
+	<Flight Airplane="747" FlightTime="126" Number="5017">
+		<Departure>
+			<Code>BOS</Code>
+			<Time>2017 Dec 10 23:54 GMT</Time>
+		</Departure>
+		<Arrival>
+			<Code>CMH</Code>
+			<Time>2017 Dec 11 02:00 GMT</Time>
+		</Arrival>
+		<Seating>
+			<FirstClass Price="$76.67">66</FirstClass>
+			<Coach Price="$23.77">381</Coach>
+		</Seating>
+	</Flight>
+</Flights>
