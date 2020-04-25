@@ -1,2 +1,2 @@
 # Flight-Reservation-System
-CS 509- Design Of Software System
+Design Of Software System
